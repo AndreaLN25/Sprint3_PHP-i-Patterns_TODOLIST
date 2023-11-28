@@ -1,5 +1,5 @@
 # PHP initial Project
-Main structure of php project. Folders / files: !!!hola!!!
+Main structure of php project. Folders / files: 
 - **app**
   - **controllers**
   - **models**
